@@ -18,7 +18,7 @@ Minor modifications by Costyn van Dongen
 #include <util/crc16.h>
 #include <Wire.h>
 
-#include "SD.h"
+//#include "SD.h"
 
 #define ONE_WIRE_BUS 10
 #define NTX2_SPACE_PIN 4
